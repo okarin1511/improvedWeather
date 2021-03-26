@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/improvedWeather/static/css/main.de53efc6.chunk.css",
+    "main.js": "/improvedWeather/static/js/main.ebb23b13.chunk.js",
+    "main.js.map": "/improvedWeather/static/js/main.ebb23b13.chunk.js.map",
+    "runtime-main.js": "/improvedWeather/static/js/runtime-main.88959a36.js",
+    "runtime-main.js.map": "/improvedWeather/static/js/runtime-main.88959a36.js.map",
+    "static/js/2.45c8dd11.chunk.js": "/improvedWeather/static/js/2.45c8dd11.chunk.js",
+    "static/js/2.45c8dd11.chunk.js.map": "/improvedWeather/static/js/2.45c8dd11.chunk.js.map",
+    "static/js/3.6a553ff7.chunk.js": "/improvedWeather/static/js/3.6a553ff7.chunk.js",
+    "static/js/3.6a553ff7.chunk.js.map": "/improvedWeather/static/js/3.6a553ff7.chunk.js.map",
+    "index.html": "/improvedWeather/index.html",
+    "static/css/main.de53efc6.chunk.css.map": "/improvedWeather/static/css/main.de53efc6.chunk.css.map",
+    "static/js/2.45c8dd11.chunk.js.LICENSE.txt": "/improvedWeather/static/js/2.45c8dd11.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/improvedWeather/static/media/hot.11708576.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88959a36.js",
+    "static/js/2.45c8dd11.chunk.js",
+    "static/css/main.de53efc6.chunk.css",
+    "static/js/main.ebb23b13.chunk.js"
+  ]
+}
